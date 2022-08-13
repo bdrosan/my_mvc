@@ -1,0 +1,17 @@
+{
+    "name": "rosan/my_mvc",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md. Salah Uddin",
+            "email": "bdrosan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
